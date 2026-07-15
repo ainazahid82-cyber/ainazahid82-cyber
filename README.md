@@ -1,4 +1,4 @@
-### *About Me
+### ABOUT ME
 
 <h1 align="center">Hi 👋, I'm [Aina Zahid]</h1>
 <h3 align="center">CS Undergraduate | Graphic Designer | Canva Creative Designer</h3>
