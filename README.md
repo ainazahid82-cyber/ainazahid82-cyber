@@ -19,8 +19,8 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](www.linkedin.com/in/aina-zahid)
-[![Gmail]](ainazahid82@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)(www.linkedin.com/in/aina-zahid)
+[![Gmail]](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)(mail to: ainazahid82@gmail.com)
 
 ---
 
